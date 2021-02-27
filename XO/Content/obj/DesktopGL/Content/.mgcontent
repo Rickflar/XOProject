@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Fonts/File.spritefont</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Fonts/H2Font.spritefont</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Mouse/mouse.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Mouse/mouse2.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Tiles/Back.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Tiles/Menu.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Tiles/O.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Tiles/Point.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Tiles/Switcher.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Tiles/Tile.png</File>
+    <File>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Tiles/X.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Fonts/Font.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

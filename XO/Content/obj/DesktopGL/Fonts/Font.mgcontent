@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/Fonts/File.spritefont</SourceFile>
+  <SourceTime>2018-12-04T02:17:35.4300635+03:00</SourceTime>
+  <DestFile>C:/Users/nikit/OneDrive/Desktop/XO/XO/Content/bin/DesktopGL/Fonts/Font.xnb</DestFile>
+  <DestTime>2018-12-04T02:19:45.5101444+03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-10-22T03:53:22+03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-10-22T03:53:22+03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
